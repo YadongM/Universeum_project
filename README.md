@@ -26,9 +26,12 @@ About 19 classes, please check [classes](URL 'https://github.com/maodreamer/SSY3
 
 maodreamer/SSY340_project
 
-We use [labelImg](URL ' https://github.com/tzutalin/labelImg') for data annotation, make two datasets through [roboflow](URL ' https://roboflow.com/').
+We use [labelImg](https://github.com/tzutalin/labelImg) for data annotation, make two datasets through [roboflow](URL ' https://roboflow.com/').
 
-[test](http://blog.csdn.net/guodongxiaren "悬停显示")
+
+
+
+
 
 Universeum_no_data_augmentation:
 1115 pictures, modified picture size to 640×640, no data enhancement.
