@@ -22,11 +22,11 @@ Yadong Mao
 
 We took 1,115 photos from the perspective of tourists at Universeum, with 19 classes.
 
-About 19 classes, please check [classes](URL 'https://github.com/maodreamer/SSY340_project/blob/master/Classes_describe.md').
+About 19 classes, please check [classes](https://github.com/maodreamer/SSY340_project/blob/master/Classes_describe.md).
 
 maodreamer/SSY340_project
 
-We use [labelImg](https://github.com/tzutalin/labelImg) for data annotation, make two datasets through [roboflow](URL ' https://roboflow.com/').
+We use [labelImg](https://github.com/tzutalin/labelImg) for data annotation, make two datasets through [roboflow](https://roboflow.com/).
 
 
 
@@ -47,7 +47,7 @@ On the basis of Universeum_no_data_augmentation, the training set part is double
 
 
 
-The dataset is stored in [Yolo v5](URL 'https://github.com/ultralytics/yolov5') format. Images are stored in images folder, and label information is stored in labels folder.
+The dataset is stored in [Yolo v5](https://github.com/ultralytics/yolov5) format. Images are stored in images folder, and label information is stored in labels folder.
 
 ```
 ─Universeum_with_data_augmentation
@@ -64,7 +64,7 @@ The dataset is stored in [Yolo v5](URL 'https://github.com/ultralytics/yolov5') 
 
 
 
-You can download the dataset from [here](URL 'https://chalmersuniversity.box.com/s/4olr9s4ga0ls73qokb17iukodlldvzt0').
+You can download the dataset from [here](https://chalmersuniversity.box.com/s/4olr9s4ga0ls73qokb17iukodlldvzt0).
 
 
 
