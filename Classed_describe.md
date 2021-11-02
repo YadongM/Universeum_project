@@ -6,11 +6,11 @@
 
 ## Arapaima
 
-<img src="img/classes/Arapaima.png" alt="Arapaima" style="zoom:50%;" />
+<img src="img/classes/Arapaima.png" alt="Arapaima" style="zoom:30%;" />
 
 ## Blacktip_Reef_Shark
 
-<img src="img/classes/Blacktip_Reef_Shark.png" alt="Blacktip_Reef_Shark" style="zoom:50%;" />
+<img src="img/classes/Blacktip_Reef_Shark.png" alt="Blacktip_Reef_Shark" style="zoom:30%;" />
 
 ## Blue_Chromis
 
@@ -22,7 +22,7 @@
 
 ## Emerald_Toucanet
 
-<img src="img/classes/Emerald_Toucanet.png" alt="Emerald_Toucanet" style="zoom:50%;" />
+<img src="img/classes/Emerald_Toucanet.png" alt="Emerald_Toucanet" style="zoom:30%;" />
 
 ## Eudocimus_Ruber
 
@@ -46,7 +46,7 @@
 
 ## Leporinus_Fasciatus
 
-<img src="img/classes/Leporinus_Fasciatus.png" alt="Leporinus_Fasciatus" style="zoom:50%;" />
+<img src="img/classes/Leporinus_Fasciatus.png" alt="Leporinus_Fasciatus" style="zoom:40%;" />
 
 ## Pied_Tamarin
 
@@ -54,7 +54,7 @@
 
 ## Red-Bellied_Piranha
 
-<img src="img/classes/Red-Bellied_Piranha.png" alt="Red-Bellied_Piranha" style="zoom:50%;" />
+<img src="img/classes/Red-Bellied_Piranha.png" alt="Red-Bellied_Piranha" style="zoom:30%;" />
 
 ## Red_Sea_Sailfin_Tang
 
