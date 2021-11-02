@@ -24,11 +24,11 @@ We took 1,115 photos from the perspective of tourists at Universeum, with 19 cla
 
 About 19 classes, please check [classes](URL 'https://github.com/maodreamer/SSY340_project/blob/master/Classes_describe.md').
 
-roboflow
+maodreamer/SSY340_project
 
 We use [labelImg](URL ' https://github.com/tzutalin/labelImg') for data annotation, make two datasets through [roboflow](URL ' https://roboflow.com/').
 
-
+[test](http://blog.csdn.net/guodongxiaren "悬停显示")
 
 Universeum_no_data_augmentation:
 1115 pictures, modified picture size to 640×640, no data enhancement.
