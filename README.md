@@ -44,18 +44,18 @@ On the basis of Universeum_no_data_augmentation, the training set part is double
 
 
 
-The dataset is stored in Yolo v5](URL 'https://github.com/ultralytics/yolov5') format. Images are stored in images folder, and label information is stored in labels folder.
+The dataset is stored in [Yolo v5](URL 'https://github.com/ultralytics/yolov5') format. Images are stored in images folder, and label information is stored in labels folder.
 
-─Universeum_with_data_augmentation
-    ├─test
-    │  ├─images
-    │  └─labels
-    ├─train
-    │  ├─images
-    │  └─labels
-    └─valid
-        ├─images
-        └─labels
+─Universeum_with_data_augmentation\\
+    ├─test\\
+    │  ├─images\\
+    │  └─labels\\
+    ├─train\\
+    │  ├─images\\
+    │  └─labels\\
+    └─valid\\
+        ├─images\\
+        └─labels\\
 
 
 
